@@ -12,3 +12,18 @@ Built as a learning project to practice file handling, string manipulation, and 
 - Counts the **total number of words**  
 - Calculates **frequency of each word/letter**  
 - Prints a small report in the terminal
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/JPGHP/bookbot.git
+cd bookbota
+```
+### 2. Run the main script
+```bash
+python main.py <Path to file>
+```
+

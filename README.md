@@ -20,7 +20,7 @@ Built as a learning project to practice file handling, string manipulation, and 
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/JPGHP/bookbot.git
-cd bookbota
+cd bookbot
 ```
 ### 2. Run the main script
 ```bash
